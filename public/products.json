@@ -1,0 +1,305 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Mesa Ratona",
+            "category": "kitchen",
+            "company": "marcos",
+            "colors": [
+                "white",
+                "blue",
+                "red"
+            ],
+            "freeShipping": true,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 1000
+        },
+        {
+            "id": 2,
+            "name": "Silla Circular",
+            "category": "beedroom",
+            "company": "liddy",
+            "colors": [
+                "blue",
+                "white",
+                "black"
+            ],
+            "freeShipping": true,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 2000
+        },
+        {
+            "id": 3,
+            "name": "Silla Cross",
+            "category": "kitchen",
+            "company": "marcos",
+            "colors": [
+                "blue",
+                "black",
+                "white"
+            ],
+            "freeShipping": false,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 1500
+        },
+        {
+            "id": 4,
+            "name": "Mesa 1",
+            "category": "kids",
+            "company": "caressa",
+            "colors": [
+                "black",
+                "red",
+                "blue"
+            ],
+            "freeShipping": false,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 3300
+        },
+        {
+            "id": 5,
+            "name": "Mesa 2",
+            "category": "beedroom",
+            "company": "liddy",
+            "colors": [
+                "black",
+                "red",
+                "blue"
+            ],
+            "freeShipping": false,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 2700
+        },
+        {
+            "id": 6,
+            "name": "Mesa 3",
+            "category": "office",
+            "company": "marcos",
+            "colors": [
+                "red",
+                "blue",
+                "white"
+            ],
+            "freeShipping": false,
+            "featured": true,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 6150
+        },
+        {
+            "id": 7,
+            "name": "Mesa 4",
+            "category": "kids",
+            "company": "caressa",
+            "colors": [
+                "yellow",
+                "blue",
+                "blue"
+            ],
+            "freeShipping": true,
+            "featured": true,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 3500
+        },
+        {
+            "id": 8,
+            "name": "Mesa 5",
+            "category": "kitchen",
+            "company": "caressa",
+            "colors": [
+                "black",
+                "red",
+                "white",
+                "yellow"
+            ],
+            "freeShipping": false,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 4700
+        },
+        {
+            "id": 9,
+            "name": "Mesa 6",
+            "category": "living room",
+            "company": "ikea",
+            "colors": [
+                "blue",
+                "white",
+                "yellow"
+            ],
+            "freeShipping": false,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 3500
+        },
+        {
+            "id": 10,
+            "name": "Mesa 7",
+            "category": "living room",
+            "company": "caressa",
+            "colors": [
+                "red",
+                "black",
+                "white"
+            ],
+            "freeShipping": true,
+            "featured": true,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 1200
+        },
+        {
+            "id": 11,
+            "name": "Mesa 8",
+            "category": "living room",
+            "company": "marcos",
+            "colors": [
+                "white",
+                "black",
+                "blue"
+            ],
+            "freeShipping": true,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 5000
+        },
+        {
+            "id": 12,
+            "name": "Mesa 9",
+            "category": "living room",
+            "company": "caressa",
+            "colors": [
+                "yellow",
+                "blue",
+                "black"
+            ],
+            "freeShipping": true,
+            "featured": true,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 2800
+        },
+        {
+            "id": 13,
+            "name": "Mesa 10",
+            "category": "kitchen",
+            "company": "marcos",
+            "colors": [
+                "black",
+                "white",
+                "red"
+            ],
+            "freeShipping": false,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 1800
+        },
+        {
+            "id": 14,
+            "name": "Mesa 11",
+            "category": "dinning",
+            "company": "liddy",
+            "colors": [
+                "blue",
+                "black",
+                "red"
+            ],
+            "freeShipping": false,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 1300
+        },
+        {
+            "id": 15,
+            "name": "Ikea sin white",
+            "category": "dinning",
+            "company": "ikea",
+            "colors": [
+                "red",
+                "blue",
+                "black"
+            ],
+            "freeShipping": true,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 6100
+        },
+        {
+            "id": 16,
+            "name": "Mesa 12",
+            "category": "beedroom",
+            "company": "marcos",
+            "colors": [
+                "white",
+                "red",
+                "black"
+            ],
+            "freeShipping": false,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 2200
+        },
+        {
+            "id": 17,
+            "name": "Mesa 13",
+            "category": "office",
+            "company": "marcos",
+            "colors": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "freeShipping": false,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 2000
+        },
+        {
+            "id": 18,
+            "name": "Mesa 14",
+            "category": "kitchen",
+            "company": "caressa",
+            "colors": [
+                "red",
+                "white",
+                "yellow"
+            ],
+            "freeShipping": true,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 2000
+        },
+        {
+            "id": 19,
+            "name": "Mesa 15",
+            "category": "dinning",
+            "company": "caressa",
+            "colors": [
+                "red",
+                "black",
+                "white"
+            ],
+            "freeShipping": false,
+            "featured": false,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 4100
+        },
+        {
+            "id": 20,
+            "name": "Mesa 16",
+            "category": "kids",
+            "company": "liddy",
+            "colors": [
+                "yellow",
+                "white",
+                "red"
+            ],
+            "freeShipping": true,
+            "featured": true,
+            "img": "https://i.pinimg.com/originals/20/16/b3/2016b30fd230af62248e81a132fbbf67.jpg",
+            "price": 2000
+        }
+    ]
+}
