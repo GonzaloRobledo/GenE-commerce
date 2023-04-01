@@ -1,5 +1,6 @@
 import React, { useContext, useState } from 'react'
 import { ProductsContext } from '../../context/ProductsContext'
+import { NavLink } from 'react-router-dom'
 
 export const InfoProduct = ({ product }) => {
   const { addToCart } = useContext(ProductsContext)
@@ -18,7 +19,9 @@ export const InfoProduct = ({ product }) => {
 
   return (
     <section className='container-75 sec-infoProducts'>
-      <button className='btn-general'>Back to products</button>
+      <NavLink to='/products' className='btn-general'>
+        Back to products
+      </NavLink>
       <article className='flex-infoProduct'>
         <div className='flex-infoProduct__img'>
           <img src={product.img} alt={product.name} />

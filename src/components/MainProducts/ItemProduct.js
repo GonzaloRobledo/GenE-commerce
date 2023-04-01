@@ -1,6 +1,7 @@
 import React, { useContext, useRef } from 'react'
 import { useNavigate } from 'react-router'
 import { ProductsContext } from '../../context/ProductsContext'
+import { FiSearch } from 'react-icons/fi'
 
 export const ItemProduct = ({ product, conditionView }) => {
   const { view } = useContext(ProductsContext)
@@ -24,8 +25,10 @@ export const ItemProduct = ({ product, conditionView }) => {
       >
         <img src={product.img} alt={product.name} />
         {(!conditionView || view == 'grid') && (
-          <div className='lupa' ref={refImg} onClick={navigateProd}>
-            <p>🔎</p>
+          <div className='lupa__container' ref={refImg} onClick={navigateProd}>
+            <div>
+              <FiSearch />
+            </div>
           </div>
         )}
       </div>
